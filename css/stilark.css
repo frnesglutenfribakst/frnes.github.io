@@ -1,0 +1,208 @@
+body
+{
+	width: 1300px;
+    margin: auto;
+    background-image: repeat;
+}
+.background
+{
+    width: 1300px;
+    height: auto;
+    margin-top: -14px;
+    padding-top: 10px;
+    background-color: #FFFFFF;
+}
+
+p
+{
+    font-family:  sans-serif;
+}
+h3
+{
+	font-family: sans-serif;
+}
+
+.main2 
+{
+    height: auto;
+    margin-left: px;
+    width: 1300px;
+
+}
+.main2 p
+{
+	color:#444444;
+	line-height: 1.5;
+	text-align: center
+
+}
+.main2 h2
+{
+	text-align: center;
+	font-family: sans-serif;
+	color: #444444;
+	font-weight: normal;
+
+}
+h4
+{
+    font-weight: normal;
+}
+.logo
+{
+	
+}
+.main3 p
+{
+    width: 250px;
+    float: left;
+    margin-right: 50px;
+}
+
+.footer
+{
+    text-align: center;
+    border-top: solid black 1px;
+    margin-top: 20px
+}
+
+.knapper
+{
+	float: left;
+    padding: 10px;
+    background-color: #2f1e13;
+    width: 305px;
+	height: 25px;
+    margin: 0;
+    margin-top: 0;
+    color: #EEEEEE;
+    font-weight: normal;
+	font-family:  sans-serif;
+	text-align: center;
+}
+
+.knapper2
+{
+	float: left;
+    padding: 10px;
+    background-color: #111111;
+    width: 0px;
+	height: 20px;
+    margin: 0;
+    margin-top: 0;
+    color: #EEEEEE;
+    font-weight: bold;
+	font-family:  sans-serif;
+	text-align: center;
+}
+
+.knapper:hover, .knapper2:hover
+{
+    background-color: #62391d;
+}
+
+#liste
+{
+	
+    width: 1300px;
+    height: 50px;
+}
+
+.enting
+{
+	width: 1300px;
+	height: 50px;
+	margin-top: -1px;
+}
+
+.palltabell
+{
+	width: 400px;
+	border-collapse: collapse;
+}
+
+tr
+{
+	height: 40px;
+	font-family: sans-serif;
+}
+
+tr:hover, tr:nth-child(even):hover
+{
+	background-color: darkgray;
+}
+
+tr:first-child:hover
+{
+	background-color: white;
+}
+
+tr:nth-child(even) 
+{
+    background-color: #EEEEEE;
+}
+
+td
+{
+	font-size: 18px;
+}
+
+th
+{
+	height: 60px;
+	text-align: left;
+	font-size: 18px;
+}
+
+.lopklasse
+{
+	width: 900px;
+	border-collapse: collapse;
+}
+
+.kartvideo
+{
+	width: 400px;
+	float: right;
+	margin-right: 20px;
+}
+
+.pallplass
+{
+	width: 400px;
+	float: left;
+}
+
+.button-left
+{
+	background-color: #111111;
+	color: #EEEEEE;
+	border: none;
+	padding: 12px 17px;
+	position: absolute;
+	top: 850px;
+}
+
+.button-left:hover
+{
+	background-color: #EEEEEE;
+	color: #111111;
+}
+
+.button-right
+{
+	background-color: #111111;
+	color: #EEEEEE;
+	border: none;
+	padding: 12px 17px;
+	position: absolute;
+	margin-left: 359px;
+	top: 850px;
+}
+
+.button-right:hover
+{
+	background-color: #EEEEEE;
+	color: #111111;
+}
+
