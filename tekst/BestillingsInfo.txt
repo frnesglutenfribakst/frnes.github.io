@@ -1,0 +1,34 @@
+﻿
+<h1><u>Kjøp av varer</u></h1>
+<h2><b>Utsalgssteder</b></h2>
+<h2>
+Meny Aksdal. En del av produktene mine kan du finne i frysedisken på Meny Aksdal. 
+</h2>
+<br>
+
+<h1><u>Bestilling av varer</u></h1>
+<h2>
+Det bakes kun på bestilling. Ettersom det er snakk om ferske varer, må jeg ha minstebestilling på varene for at det skal gå rundt. 
+</h2>
+<br>
+
+<h2><b>Frosset</b></h2>
+<h2>
+Jeg har en del varer på frys. Disse kan kjøpes uten minstebestilling, til samme pris. 
+</h2>
+<h2>
+Noen varer blir også kun solgt som frosset, disse er det heller ikke minstebestilling på. Dette er spesifisert i prislisten. 
+</h2>
+<br>
+
+<h2><b>Priser /betaling</b></h2>
+<h2>Alle priser er oppgitt i NOK, inklusiv MVA. Betaling kontant eller vipps.  </h2>
+<h2>Jeg sender ikke varer<h2>
+<br>
+
+<h2><b>Reklamasjon</b></h2>
+<h2>Ved feil på varen erstattes varen i ny vare.</h2>
+<br>
+
+<h2><b>Forbehold</b></h2>
+<h2>Det tas forbehold om feil på nettside</h2>

@@ -1,0 +1,104 @@
+﻿<h1>Produkt- og prisliste</h1>
+<h2>
+Produktliste /prisliste ligger på siden her. Alle varer er priset per stk. selv om det er minstebestilling på varen. Det er fullt mulig å bestille det antall en ønsker over minstebestilling. Bestillinger sendes gjennom bestillingskjema her eller gjennom SMS. Varene hentes direkte hos meg til avtalt tid.
+</h2>
+<h2>
+Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
+</h2>
+<br>
+
+<table class="lopklasse" align="center">
+<tr>
+	<th>Podukt</th>
+	<th>Pris Per stk</th> 
+	<th>Minstebestilling</th> 
+</tr>
+
+<tr>
+	<td>Brød</td>
+	<td>70,-</td>
+	<td>3</td>
+</tr>
+
+<tr>
+	<td>Grovbrød m/ hele korn</td>
+	<td>75,-</td>
+	<td>3</td>
+</tr>
+
+<tr>
+	<td>Grovbrød m/ knuste korn</td>
+	<td>75,-</td>
+	<td>3</td>
+</tr>
+
+<tr>
+	<td>Formloff</td>
+	<td>65,-</td>
+	<td>3</td>
+</tr>
+
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+
+<tr>
+	<td>Frokostbrød</td>
+	<td>18,-</td>
+	<td>8</td>
+</tr>
+
+<tr>
+	<td>Grove rundstykker</td>
+	<td>20,-</td>
+	<td>8</td>
+</tr>
+
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+
+<tr>
+	<td>Bollder</td>
+	<td>15,-</td>
+	<td>8</td>
+</tr>
+
+<tr>
+	<td>Skoleboller</td>
+	<td>20,-</td>
+	<td>8</td>
+</tr>
+
+<tr>
+	<td>Kanelboller m/ Vanilje</td>
+	<td>20,-</td>
+	<td>8</td>
+</tr>
+
+<tr>
+	<td>Kanelboller u/ Vanilje</td>
+	<td>20,-</td>
+	<td>8</td>
+</tr>
+</table>
+
+<h1>Bilder</h1>
+<img src="../media/bilde1.jpg" width="700">
+<h2>Kneipbrød</h2>
+<br>
+<img src="../media/bilde2.jpg" width="700">
+<h2>Kneipbrød</h2>
+<br>
+<img src="../media/bilde3.jpg" width="700">
+<h2>Boller</h2>
+<br>
+<img src="../media/bilde4.jpg" width="700">
+<h2>Frokostbrød</h2>
+<br>
+<img src="../media/bilde5.jpg" width="700">
+<h2>Formloff</h2>

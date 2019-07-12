@@ -36,7 +36,16 @@ h3
 	text-align: center
 
 }
-.main2 h2
+
+.main2 h1
+{
+	text-align: center;
+	color: #444444;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+
+.main2 h2 
 {
 	text-align: center;
 	font-family: sans-serif;
@@ -158,6 +167,9 @@ th
 {
 	width: 900px;
 	border-collapse: collapse;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	text-align: left;
 }
 
 .kartvideo
@@ -206,3 +218,17 @@ th
 	color: #111111;
 }
 
+#tekst
+{
+	text-align: center;
+}
+footer
+{
+	background-color: #FBF4EE;
+	padding: 1px;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+	color: #333333;
+	text-align: center
+}

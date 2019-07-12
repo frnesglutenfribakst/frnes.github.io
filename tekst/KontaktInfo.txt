@@ -1,0 +1,7 @@
+﻿<h1>Kontaktinformasjon </h1>
+<h2>Navn: Kjersti Nes</h2>
+<h2>Adresse:  Rindane 2</h2>
+<h2>Post: 5563 Førresfjorden</h2>
+<h2>EMail: frnesglutenfribakst@gmail.com</h2>
+<h2>Tlf: 47661372</h2>
+<h2>Dere finner meg også på Facebook og det kan sendes forespørsler i innboksen der eller på mail.</h2>
