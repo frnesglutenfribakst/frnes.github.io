@@ -1,6 +1,6 @@
 ﻿<h1>Produkt- og prisliste</h1>
 <h2>
-Produktliste /prisliste ligger på siden her. Alle varer er priset per stk. selv om det er minstebestilling på varen. Det er fullt mulig å bestille det antall en ønsker over minstebestilling. Bestillinger sendes gjennom bestillingskjema her eller gjennom SMS. Varene hentes direkte hos meg til avtalt tid.
+Produktliste /prisliste ligger på siden her. Alle varer er priset per stk. selv om det er minstebestilling på varen. Det er fullt mulig å bestille det antall en ønsker over minstebestilling. Bestillinger sendes gjennom SMS, mail eller Messanger. Varene hentes direkte hos meg til avtalt tid.
 </h2>
 <h2>
 Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
