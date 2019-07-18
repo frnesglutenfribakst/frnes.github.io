@@ -1,5 +1,6 @@
-﻿<h1><u>Om bedriften</u></h1>
-
+<br>
+<font style="font-size:0px"> Fr. Nes Gutenfri Bakst </font>
+<br>
 
 <h2>
 Fr. Nes Glutenfri Bakst er et lite enkeltpersonforetak som produserer glutenfri bakst. Foretaket drives hjemme og er registrert hos mattilsynet. All bakst er glutenfritt og varene har blitt godt mottatt.  
@@ -8,7 +9,7 @@ Fr. Nes Glutenfri Bakst er et lite enkeltpersonforetak som produserer glutenfri 
 <img src="media/forside1.png" width="400">
 <img src="media/forside2.png" width="400">
 
-<h1><u>Om meg</u></h1>
+<br>
 
 
 <h2>
