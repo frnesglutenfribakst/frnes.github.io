@@ -1,4 +1,4 @@
-﻿<h1>Produkt- og prisliste</h1>
+﻿<h1><u>Produkt- og prisliste</u></h1>
 <h2>
 Produktliste /prisliste ligger på siden her. Alle varer er priset per stk. selv om det er minstebestilling på varen. Det er fullt mulig å bestille det antall en ønsker over minstebestilling. Bestillinger sendes gjennom SMS, mail eller Messanger. Varene hentes direkte hos meg til avtalt tid.
 </h2>
@@ -87,7 +87,7 @@ Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 </tr>
 </table>
 
-<h1>Bilder</h1>
+<h1><u>Bilder</u></h1>
 <img src="../media/bilde1.jpg" width="700">
 <h2>Kneipbrød</h2>
 <br>
