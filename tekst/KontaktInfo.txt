@@ -1,4 +1,4 @@
-﻿<h1>Kontaktinformasjon </h1>
+﻿<h1><u>Kontaktinformasjon</u></h1>
 <h2>Navn: Kjersti Nes</h2>
 <h2>Adresse:  Rindane 2</h2>
 <h2>Post: 5563 Førresfjorden</h2>
