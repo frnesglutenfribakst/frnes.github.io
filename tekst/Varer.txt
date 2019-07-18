@@ -85,6 +85,26 @@ Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 	<td>20,-</td>
 	<td>8</td>
 </tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>Pizzaboller</td>
+	<td>30,-</td>
+	<td>Ingen minstebestilling, Selges kun frosne</td>
+</tr>
+<tr>
+	<td>Pølsebrød</td>
+	<td>20,-</td>
+	<td>Ingen minstebestilling, Selges kun frosne</td>
+</tr>
+<tr>
+	<td>Hamburgerbrød</td>
+	<td>20,-</td>
+	<td>Ingen minstebestilling, Selges kun frosne</td>
+</tr>
 </table>
 
 <h1><u>Bilder</u></h1>
