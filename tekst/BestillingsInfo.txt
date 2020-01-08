@@ -8,16 +8,16 @@ Meny Aksdal. En del av produktene mine kan du finne i frysedisken på Meny Aksda
 
 <h1><u>Bestilling av varer</u></h1>
 <h2>
-Det bakes kun på bestilling. Ettersom det er snakk om ferske varer, må jeg ha minstebestilling på varene for at det skal gå rundt. 
+Det bakes kun på bestilling. De fleste varer blir solgt frosne, noe bakes ferkskt på bestilling.
 </h2>
 <br>
 
 <h2><b>Frosset</b></h2>
 <h2>
-Jeg har en del varer på frys. Disse kan kjøpes uten minstebestilling, til samme pris. 
+Jeg har en del varer på frys, ta kontakt for bestilling.  
 </h2>
 <h2>
-Noen varer blir også kun solgt som frosset, disse er det heller ikke minstebestilling på. Dette er spesifisert i prislisten. 
+De fleste varer blir kun solgt som frosset.  
 </h2>
 <br>
 
