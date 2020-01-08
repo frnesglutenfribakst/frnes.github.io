@@ -8,7 +8,7 @@ Meny Aksdal. En del av produktene mine kan du finne i frysedisken på Meny Aksda
 
 <h1><u>Bestilling av varer</u></h1>
 <h2>
-Det bakes kun på bestilling. De fleste varer blir solgt frosne, noe bakes ferkskt på bestilling.
+Det bakes kun på bestilling. De fleste varer blir solgt frosne, noe kan bakes ferkskt på bestilling. Ved bestilling av ferske varer er det minstebestilling, se prisliste.
 </h2>
 <br>
 
