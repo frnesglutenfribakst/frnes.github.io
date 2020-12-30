@@ -1,7 +1,8 @@
 ﻿<h1><u>Produktliste</u></h1>
 <h2>
-Produktlisten under viser hvilke varer jeg lager. Produktene selges i flere butikker på Haugalandet. Dette står under fanen "utsalgssteder". Ikke alle butikkene har tatt inn alle varene. Spør btjeningen om de ka ta inn varen du ønsker, eller send meg en mld, mail eller ta en tlf. Alle varer selges frosne i butikk, og ved bestilling direkte hos meg. Det er mulig å bestille direkte av meg dersom du skal ha varer som butikkene ikke tar inn, eller ved større mengder. Bedrifter kan ta direkte kontakt med meg for prisliste og avtale. 
+Produktlisten under viser hvilke varer jeg lager. Produktene selges i flere butikker på Haugalandet. Dette står under fanen "utsalgssteder". Ikke alle butikkene har tatt inn alle varene. Spør betjeningen om de ka ta inn varen du ønsker, eller send meg en mld, mail eller ta en tlf. Alle varer selges frosne i butikk, og ved bestilling direkte hos meg. Det er mulig å bestille direkte av meg dersom du skal ha varer som butikkene ikke tar inn, eller ved større mengder. 
 </h2>
+<h2>Bedrifter kan ta direkte kontakt med meg for prisliste og avtale. </h2>
 <h2>
 Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 </h2>
