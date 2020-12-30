@@ -1,6 +1,6 @@
-﻿<h1><u>Produkt- og prisliste</u></h1>
+﻿<h1><u>Produktliste</u></h1>
 <h2>
-Produktliste /prisliste ligger på siden her. Alle varer selges frosne og er priset per stk. Ved bestilling av ferske varer er det minstebestilling på varen. Det er fullt mulig å bestille det antall en ønsker over minstebestilling. Bestillinger sendes gjennom SMS, mail eller Messanger. Varene hentes direkte hos meg til avtalt tid.
+Produktlisten under viser hvilke varer jeg lager. Produktene selges i flere butikker på Haugalandet. Dette står under fanen "utsalgssteder". Ikke alle butikkene har tatt inn alle varene. Spør btjeningen om de ka ta inn varen du ønsker, eller send meg en mld, mail eller ta en tlf. Alle varer selges frosne i butikk, og ved bestilling direkte hos meg. Det er mulig å bestille direkte av meg dersom du skal ha varer som butikkene ikke tar inn, eller ved større mengder. Bedrifter kan ta direkte kontakt med meg for prisliste og avtale. 
 </h2>
 <h2>
 Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
@@ -10,32 +10,19 @@ Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 <table class="lopklasse" align="center">
 <tr>
 	<th>Podukt</th>
-	<th>Pris Per stk</th> 
-	<th>Minstebestilling</th> 
 </tr>
 
 <tr>
 	<td>Brød</td>
-	<td>70,-</td>
-	<td>3</td>
 </tr>
 
-<tr>
-	<td>Grovbrød m/ hele korn</td>
-	<td>75,-</td>
-	<td>3</td>
-</tr>
 
 <tr>
-	<td>Grovbrød m/ knuste korn</td>
-	<td>75,-</td>
-	<td>3</td>
+	<td>Grovbrød</td>
 </tr>
 
 <tr>
 	<td>Formloff</td>
-	<td>65,-</td>
-	<td>3</td>
 </tr>
 
 <tr>
@@ -46,14 +33,10 @@ Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 
 <tr>
 	<td>Frokostbrød</td>
-	<td>18,-</td>
-	<td>8</td>
 </tr>
 
 <tr>
 	<td>Grove rundstykker</td>
-	<td>20,-</td>
-	<td>8</td>
 </tr>
 
 <tr>
@@ -64,49 +47,44 @@ Ved spesielle ønsker og/eller behov ta kontakt på mail, SMS eller Facebook.
 
 <tr>
 	<td>Boller</td>
-	<td>15,-</td>
-	<td>8</td>
 </tr>
 
 <tr>
 	<td>Skoleboller</td>
-	<td>20,-</td>
-	<td>8</td>
 </tr>
 
 <tr>
 	<td>Kanelboller m/ Vanilje</td>
-	<td>20,-</td>
-	<td>8</td>
 </tr>
 
 <tr>
 	<td>Kanelboller u/ Vanilje</td>
-	<td>20,-</td>
-	<td>8</td>
 </tr>
 <tr>
 	<td></td>
 	<td></td>
 	<td></td>
 </tr>
-<tr>
-	<td>Pizzaboller</td>
-	<td>30,-</td>
-	<td>Ingen minstebestilling, Selges kun frosne</td>
-</tr>
+
 <tr>
 	<td>Pølsebrød</td>
-	<td>20,-</td>
-	<td>Ingen minstebestilling, Selges kun frosne</td>
 </tr>
 <tr>
 	<td>Hamburgerbrød</td>
-	<td>20,-</td>
-	<td>Ingen minstebestilling, Selges kun frosne</td>
+</tr>
+<tr>
+	<td>Pizzabunn</td>
+</tr>
+<tr>
+	<td>Ostebaguett</td>
+</tr>
+<tr>
+	<td>Focaccia</td>
 </tr>
 </table>
-
+<br>
+<h2>Det produseres også enkelte sesongvarer i juletiden.</h2>
+<br>
 <h1><u>Bilder</u></h1>
 <img src="../media/bilde1.jpg" width="700">
 <h2>Kneipbrød</h2>
