@@ -2,28 +2,35 @@
 <h1><u>Kjøp av varer</u></h1>
 <h2><b>Utsalgssteder</b></h2>
 <h2>
-Meny Aksdal. En del av produktene mine kan du finne i frysedisken på Meny Aksdal. 
+Meny Aksdal
+</h2>
+<h2>
+Meny Karmsundsgata
+</h2>
+<h2>
+Joker Vikebygd
+</h2>
+<h2>
+Joker Vats
+</h2>
+<h2>
+K.Jørgensen nærbutikken i Tysvær
 </h2>
 <br>
+<h2>Butikkene har en del av produktene i frysediskene sine, utvalget kan variere fra butikk til butikk. Alle varer selges frosne i butikk</h2>
 
+<br>
 <h1><u>Bestilling av varer</u></h1>
 <h2>
-Det bakes kun på bestilling. De fleste varer blir solgt frosne, noe kan bakes ferkskt på bestilling. Ved bestilling av ferske varer er det minstebestilling, se prisliste.
+Ved større bestillinger, eller varer som butikkene ikke har inne, ta kontakt for bestilling.
 </h2>
 <br>
 
-<h2><b>Frosset</b></h2>
-<h2>
-Jeg har en del varer på frys, ta kontakt for bestilling.  
-</h2>
-<h2>
-De fleste varer blir kun solgt som frosset.  
-</h2>
 <br>
-
-<h2><b>Priser /betaling</b></h2>
-<h2>Alle priser er oppgitt i NOK, inklusiv MVA. Betaling kontant eller vipps.  </h2>
-<h2>Jeg sender ikke varer<h2>
+<h2><b>For Bedrifter</b></h2>
+<h2>
+Bedrifter kan ta direkte kontakt for prisliste og bestilling av varer.
+</h2>
 <br>
 
 <h2><b>Reklamasjon</b></h2>
